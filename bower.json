@@ -1,0 +1,33 @@
+{
+  "name": "react-date-pick",
+  "version": "1.0.0",
+  "authors": [
+    "Ajay Gupta <agupta.bliss@gmail.com>"
+  ],
+  "description": "A simple and reusable date picker component for React",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ajay-gupta/react-date-pick.git"
+  },
+  "license": "MIT",
+  "main": [
+    "dist/react-date-pick.min.js",
+    "dist/react-date-pick.min.css"
+  ],
+  "keywords": [
+    "react",
+    "datepicker",
+    "calendar"
+  ],
+  "dependencies": {
+    "react": "< 0.14",
+    "moment": "2.10.6",
+    "tether": "1.1.0",
+    "react-onclickoutside": "0.3.0"
+  },
+  "ignore": [
+    "**/.*",
+    "bower_components",
+    "node_modules"
+  ]
+}
